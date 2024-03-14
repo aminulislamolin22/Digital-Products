@@ -35,17 +35,17 @@
 }
 
 .banner-tittle{
-    font-size: 54px;
+    font-size: 40px;
     font-weight: bold;
 }
 
 .banner-description{
     font-size: 20px;
-    margin: 10px 0;
+    margin: 15px 0;
 }
 
 .banner-image{
-    width: 400px;
+    width: 300px;
 }
 
 .prim-btn{
@@ -56,4 +56,69 @@
     font-weight: bold;
     color: white;
     font-size: 18px;
+    margin: 15px 0;
+}
+
+.tittle{
+    font-size: 60px;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.About{
+    display: flex;
+    justify-content: space-around;
+}
+
+.About-word{
+    align-items: center;
+}
+
+.About-img{
+    width: 275px;
+}
+
+.service{
+    height: 460px;
+    background-color: rgb(54, 52, 52);
+    color: white;
+}
+
+.icon{
+    width: 90px;
+    margin-top: 10px;
+}
+
+.icon-tittle{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.icon-btn{
+    padding: 8px;
+    border-radius: 3px;
+    border-style: none;
+    background-color: orange;
+    margin: 10px 0;
+}
+
+.box{
+    height: 245px;
+    width: 175px;
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    border-radius: 7px;
+    border-style: none;
+    
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+}
+
+.service-tittle{
+    padding: 35px;
 }
