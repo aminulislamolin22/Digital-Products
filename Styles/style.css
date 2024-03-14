@@ -24,3 +24,36 @@
 .Home-menu{
     margin-right: 20px;
 }
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    color: white;
+}
+
+.banner-tittle{
+    font-size: 54px;
+    font-weight: bold;
+}
+
+.banner-description{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.banner-image{
+    width: 400px;
+}
+
+.prim-btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: orangered;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+}
